@@ -2,30 +2,19 @@
 
 A simple counter application built with HTML, CSS and JavaScript.
 
+## Live Demo
+https://fehmi-gunay.github.io/counter-app/
+
+## Screenshot
+![Counter App Screenshot](counter-app.png)
+
 ## Features
 - Increase counter
 - Decrease counter
 - Reset counter
-- Dynamic color change based on counter value
+- Simple and clean UI
 
-## Technologies Used
+## Technologies
 - HTML
 - CSS
-- JavaScript (DOM & Events)
-
-## Project Structure
-
-```
-counter-app
-│
-├ index.html
-├ app.css
-└ app.js
-```
-
-## Author
-Fehmi Can Günay
-
-## Live Demo
-
-https://fehmi-gunay.github.io/counter-app
+- JavaScript
